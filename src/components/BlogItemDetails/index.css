@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.blog-data-container {
+  width: 80%;
+  height: 80%;
+  justify-content: center;
+  display: flex;
+}
+.blog-information {
+  height: 75%;
+}
+.avatar-name-img {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.author-name {
+  font-size: 18px;
+}
+.avt-url {
+  height: 40px;
+  border-radius: 50%;
+}
+.img-url {
+  width: 75%;
+  height: 50%;
+}
+.content-page {
+  font-size: 18px;
+  color: #2f4f4f;
+}

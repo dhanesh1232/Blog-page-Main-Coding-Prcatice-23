@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+.list-items {
+  border: 2px solid #d3d3d3;
+  padding: 10px;
+  border-radius: 5px;
+  gap: 15px;
+  display: flex;
+  flex-direction: row;
+}
+.img-blog {
+  width: 40%;
+  border-radius: 5px;
+}
+.about-blogger {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.heading-blog {
+  color: #000000;
+}
+.avatar-container {
+  height: 10%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.avt-img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+.author-name {
+  color: #8e8e8e;
+}
+.topic-c {
+  color: #8e8e8e;
+}
